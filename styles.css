@@ -124,8 +124,8 @@ p {
 }
 
 .profile-photo img {
-  width: 400px;
-  border-radius: 100%;
+  width: 300px;
+  border-radius: 80%;
 }
 
 /* Sobre mim */
